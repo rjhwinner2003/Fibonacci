@@ -1,22 +1,22 @@
 /**********************************************************/
 /**********************************************************/
 /**********************************************************/
-/***                                            		***/
-/***                                           	 		***/
-/***                                           	 		***/
+/***                                            	***/
+/***                                           	 	***/
+/***                                           	 	***/
 /***                    fibonacci.s                     ***/
-/***        											***/
-/***													***/
-/***    Written By: Ryan Hall							***/
-/***	System: Silicon Graphics O2 - IRIX 6.5.2.2		***/
-/***	Compiler: MIPSPro 7.4							***/
-/***	Date: July 19, '25	   							***/
+/***        						***/
+/***							***/
+/***    Written By: Ryan Hall				***/
+/***	System: Silicon Graphics O2 - IRIX 6.5.2.2	***/
+/***	Compiler: MIPSPro 7.4				***/
+/***	Date: July 19, '25	   			***/
 /***	Description: A simple MIPS Fibonacci            ***/
-/***    sequence program. Computes the Fibonacci  		***/
-/***    sequence up to the term input by the user. 		***/
-/***                                            		***/
-/***           					      					***/
-/***                                            		***/
+/***    sequence program. Computes the Fibonacci  	***/
+/***    sequence up to the term input by the user. 	***/
+/***                                            	***/
+/***           					      	***/
+/***                                            	***/
 /**********************************************************/
 /**********************************************************/
 /**********************************************************/
